@@ -1,0 +1,5 @@
+package optl
+
+func InitPrometheus() {
+
+}
